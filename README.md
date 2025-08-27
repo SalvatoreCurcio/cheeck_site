@@ -1,5 +1,5 @@
 
-ceck_site è in bash, ti consiglio su kali-linux
+ceck_site è in bash
 
 chmod +x check_site.sh
 ./check_site.sh
