@@ -4,7 +4,7 @@ ceck_site è in bash
 chmod +x check_site.sh
 ./check_site.sh
 
-per cambiare dominio aprire sia il file .sh e cambiare il .net Ex: IP_ADDRESS=$(nslookup phica.net 
+per cambiare dominio aprire il file .sh e cambiare il .net Ex: IP_ADDRESS=$(nslookup phica.net 
 
 per clousflare_bypass.sh :
 
