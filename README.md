@@ -12,7 +12,7 @@ sudo su
 chmod +x cloudflare_bypass.sh
 sudo +x cloudflare_bypass.sh
 
-ti consiglio di accendere la VPN in caso cloudflare ti bloccasse, io uso AnonSurf, alcune volte ti darà errore 403 o altri tipi di errori, farà 50 tentativi in tutto con un tot di secondi ognuna, quando vedi che un tentativo è andato a buon fine (di solito esce "[+] Risposta HTTP: [+] Tentativo 4 - Curl avanzato
+consiglio di accendere la VPN in caso cloudflare ti bloccasse, io uso AnonSurf, alcune volte ti darà errore 403 o altri tipi di errori, farà 50 tentativi in tutto con un tot di secondi ognuna, quando vedi che un tentativo è andato a buon fine (di solito esce "[+] Risposta HTTP: [+] Tentativo 4 - Curl avanzato
 [+] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 [+] Proxy: 198.199.86.11:8080
 000
